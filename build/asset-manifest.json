@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7afcd48b.css",
+    "main.js": "/static/js/main.6ccd6473.js",
+    "static/media/i-infrasocial.webp": "/static/media/i-infrasocial.b660c9fff806462d3418.webp",
+    "static/media/i-guar.webp": "/static/media/i-guar.490a21f65f1e7b00574f.webp",
+    "static/media/i-edu.webp": "/static/media/i-edu.4806f3dce3ff9407d804.webp",
+    "static/media/i-dep.webp": "/static/media/i-dep.39b06b6ad05031edf80e.webp",
+    "static/media/i-com.webp": "/static/media/i-com.926cedb560bc168070e0.webp",
+    "static/media/i-comercio.webp": "/static/media/i-comercio.52d3bee3be1f62101e8f.webp",
+    "static/media/i-pp.webp": "/static/media/i-pp.fd9a87007626706b5a4f.webp",
+    "static/media/i-salud.webp": "/static/media/i-salud.900eb33c5850e120dcfb.webp",
+    "static/media/i-mercado.webp": "/static/media/i-mercado.921f12422fd86d6f9b81.webp",
+    "static/media/i-jm.webp": "/static/media/i-jm.2ea0c78795be936787fe.webp",
+    "static/media/i-banq.webp": "/static/media/i-banq.6135f4c57789fc68b5af.webp",
+    "static/media/i-rec.webp": "/static/media/i-rec.25bb9075ad3be20762f5.webp",
+    "static/media/i-jf.webp": "/static/media/i-jf.f768e954ba19e2395466.webp",
+    "static/media/i-viv.webp": "/static/media/i-viv.64f388d3bd466f5cc576.webp",
+    "static/media/i-arb.webp": "/static/media/i-arb.d500ce33e0da938cb241.webp",
+    "static/media/i-dre.webp": "/static/media/i-dre.f9b188ce4ccea6a523be.webp",
+    "static/media/i-pm.webp": "/static/media/i-pm.e01ab39fcf6aa730d4d3.webp",
+    "static/media/i-p.webp": "/static/media/i-p.015b12826f36af4de2ee.webp",
+    "static/media/i-pf.webp": "/static/media/i-pf.a9f31e764525260b8f6e.webp",
+    "static/media/i-alum.webp": "/static/media/i-alum.440d4c42b2cc9b48d597.webp",
+    "static/media/marker.webp": "/static/media/marker.98f01409012406dbe8e3.webp",
+    "index.html": "/index.html",
+    "main.7afcd48b.css.map": "/static/css/main.7afcd48b.css.map",
+    "main.6ccd6473.js.map": "/static/js/main.6ccd6473.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7afcd48b.css",
+    "static/js/main.6ccd6473.js"
+  ]
+}

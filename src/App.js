@@ -35,7 +35,11 @@ function App() {
       <footer>
         <p>
           Project created for the <br /> Data Science Bootcamp @{" "}
-          <a href="https://www.lewagon.com/es/mexico" target="_blank">
+          <a
+            href="https://www.lewagon.com/es/mexico"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Le Wagon
           </a>
         </p>
